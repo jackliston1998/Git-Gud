@@ -43,7 +43,7 @@ Branches accomplish similar goals in Git repos.
 
 ### SETUP
 ```
-it config --global user.name “[firstname lastname]”
+git config --global user.name “[firstname lastname]”
 set a name that is identifiable for credit when review version history
 
 git config --global user.email “[valid-email]”
